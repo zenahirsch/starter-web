@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Zena Hirsch    hirsch.zena@gmail.com    @zenahirsch
 
 # THANKS
 
